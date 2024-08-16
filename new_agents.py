@@ -107,17 +107,3 @@ class Agent:
                         "content": function_response,
                     }
                 )
-
-
-# from groq import Groq
-# import os
-# system_prompt = """
-# You are a helpful assistant that can answer any question and available to use tools.
-# Use the provided tools to help answering the question.
-# """
-# groq_model = "llama-3.1-70b-versatile"
-# client = Groq(api_key=os.environ.get("GROQ_API_KEY"))
-
-
-# agent = Agent(client=client, model=groq_model ,system=system_prompt)
-# agent.run_conversation("what is the time now in taipei?")
