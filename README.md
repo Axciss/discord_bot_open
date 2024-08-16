@@ -2,7 +2,7 @@
 My first discord bot created by myself.
 
 ## Workflow
-![Code based workflow.](image.png)
+![code based workflow](image-1.png)
 
 ## Create environment
 ```
