@@ -1,5 +1,9 @@
 # Discord_AIBOT
 My first discord bot created by myself.
+
+## Workflow
+![Code based workflow.](image.png)
+
 ## Create environment
 ```
 python -m venv venv
